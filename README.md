@@ -3,7 +3,7 @@
 
 
 ### A simple RTS made in Unity
-BoxCraft is an engaging RTS game where you take control of adorable, sentient Boxes. As the supreme cube commander, your mission is to expand your box civilization, gather resources, construct buildings, and defend against evil, enemy Boxes.
+BoxCraft is a simple RTS game where you take control of the Boxes. As the Box Commander, your mission is to expand your Box civilization, gather resources, construct buildings, and defend against evil, enemy Boxes.
 ![boxcraft - fight](https://github.com/hlepps/BoxCraft/assets/44844164/08ec3208-bb2e-41ea-8142-b3c631bc1de8)
 
 
